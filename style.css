@@ -3,3 +3,13 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header { text-align: center;}
+img {
+  display: block;
+  margin: auto;
+}
+nav a{padding-right: 10px;padding-left: 10px;background-color: grey;}
+figcaption{text-align: center;font-size:13px; }
+
+p { width:800px;}
